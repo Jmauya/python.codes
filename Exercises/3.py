@@ -1,9 +1,4 @@
 //Calculations with variables
-//You've now created a savings variable, so let's start saving!
-//Instead of calculating with the actual values, you can use variables instead.
-
-//ow much money would you have saved four months from now, if you saved $10 each month?
-
 //Instructions
 
 //Create a variable monthly_savings, equal to 10 and num_months, equal to 4.
