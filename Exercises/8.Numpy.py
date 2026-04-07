@@ -1,6 +1,5 @@
 # Import the numpy package as np
 import numpy as np
-
 # Create a list of baseball player heights (example data)
 baseball = [180, 215, 210, 210, 188, 176, 209, 200]
 
