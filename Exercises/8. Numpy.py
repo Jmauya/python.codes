@@ -1,4 +1,4 @@
-# Import the numpy package as np
+#Import the numpy package as np
 import numpy as np
 
 # Create a list of baseball player heights (example data)
