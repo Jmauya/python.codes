@@ -1,5 +1,4 @@
 // Instructions
-
 //Print the result of subtracting 5 from 5 under # Subtraction using print().
 // Print the result of multiplying 3 by 5 under # Multiplication.
 //Print the result of subtracting 5 from 5 under # Subtraction using print().
