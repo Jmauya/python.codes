@@ -4,6 +4,7 @@
 # So how can we program this? We can use the % modulo operator to find the remainder:
 # Even → n % 2 == 0
 # Odd → n % 2 == 1
+
 # Create a num variable and give it any number.
 # Use a print() and % modulo operator to see if it's divisible by 2.
 
