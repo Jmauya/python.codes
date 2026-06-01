@@ -9,6 +9,7 @@
 # Use a print() and % modulo operator to see if it's divisible by 2.
 
 # Create a num variable and give it any number
+
 num = 7
 
 # Use a print() and % modulo operator to see if it's divisible by 2
