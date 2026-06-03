@@ -7,5 +7,6 @@ fahrenheit = 77
 celsius = (fahrenheit - 32) / 1.8
 
 # Printing the results
+
 print(f"Current Brooklyn temperature: {fahrenheit}°F")
 print(f"Converted to Celsius: {celsius:.1f}°C ")
