@@ -15,6 +15,7 @@ explainer = shap.TreeExplainer(model)
 shap_values = explainer.shap_values(X_train)
 
 # Plot the SHAP beeswarm (dot) plot
+
 shap.summary_plot(
     shap_values,
     X_train,
