@@ -1,5 +1,5 @@
-//Derive the shap_values using a TreeExplainer.
-//Use the derived shap_values to plot the beeswarm plot and analyze it.
+//Derive the shap_values using a TreeExplainer
+//Use the derived shap_values to plot the beeswarm plot and analyze it
 
 import shap
 from sklearn.ensemble import RandomForestRegressor
