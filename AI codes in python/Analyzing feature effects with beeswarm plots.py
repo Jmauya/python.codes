@@ -5,6 +5,7 @@ import shap
 from sklearn.ensemble import RandomForestRegressor
 
 # Train the model
+
 model = RandomForestRegressor(random_state=42)
 model.fit(X_train, y_train)
 
