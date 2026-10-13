@@ -10,6 +10,7 @@ min = x
 max = x 
 
 ## min
+
 if y < min :
     min = y 
 if z < min :
@@ -20,7 +21,6 @@ if z < min :
 
 if y > max :
     max = y 
-
 if z > max :
     max = z 
 
