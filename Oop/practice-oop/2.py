@@ -1,8 +1,8 @@
 class MobilePhone:
 
     def __init__(self, model):
-        self.model = model  # Public attribute
-        self.__battery = 100  # Private attribute (default 100)
+        self.model = model  
+        self.__battery = 100  
 
     def use(self, amount=15):
         # Reduce battery, but don't let it drop below 0
