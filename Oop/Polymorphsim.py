@@ -40,6 +40,7 @@ class Drone(Camera):
 
 
 # Instantiation
+
 phone = Smart_Phone("Phone", 30)
 dslr = DSLR("DSLR", 200)
 drone = Drone("Drone", 150)
